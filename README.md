@@ -8,9 +8,5 @@ Ferramenta de linha de comando em Bash que compacta logs de um diretório em um 
 - Valida os argumentos: avisa se nenhum diretório for informado ou se o caminho for inválido
 - Mensagens de erro enviadas ao stderr e código de saída diferente de zero em caso de falha
 
-### Uso
-log-archive /var/log
-#saída: logs_archive_20240816_100648.tar.gz
-
 Link do desafio:
 https://roadmap.sh/projects/log-archive-tool
